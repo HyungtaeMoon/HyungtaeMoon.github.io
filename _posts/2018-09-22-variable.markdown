@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "변수"
+date:   2018-09-22 08:43:59
+author: Ben Centra
+categories: Jekyll
+tags:	jekyll welcome
+cover:  "/assets/instacode.png"
+---
+
+```python
+var1 = 10
+var2 = var1
+
+var1 = 20
+var2
+```
