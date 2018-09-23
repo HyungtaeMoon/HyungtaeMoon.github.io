@@ -4,7 +4,7 @@ title:  "변수"
 date:   2018-09-22 08:43:59
 author: Moon Hyungtae
 categories: Python
-tags:	django variable
+tags:	django 변수
 cover:  "/assets/instacode.png"
 ---
 
