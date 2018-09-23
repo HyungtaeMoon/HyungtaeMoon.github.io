@@ -2,9 +2,9 @@
 layout: post
 title:  "변수"
 date:   2018-09-22 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+author: Moon Hyungtae
+categories: Python
+tags:	django variable
 cover:  "/assets/instacode.png"
 ---
 
@@ -15,3 +15,9 @@ var2 = var1
 var1 = 20
 var2
 ```
+
+var2는 var1 의 값을 저장하고 있는 것이 아니라 var1 이 가리키는 메모리의 값(10)을 가리키고 있기 때문에 var1 이 다른 값을 참조하여도 var2 는 여전히 10을 가리키고 있다.
+
+### 이것이 결론
+
+`마크다운` 확인
