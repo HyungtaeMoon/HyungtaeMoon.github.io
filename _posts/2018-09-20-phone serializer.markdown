@@ -11,7 +11,7 @@ cover:  "/assets/instacode.png"
 `#django` `#유효성검사`
 
 전화번호 시리얼라이저 모델과 유효성 검사
-
+j.
 **ModelSerializer**
 
 기존에 생성되어 있는 User 모델을 참조하여 contact_phone 필드만을 따로 정의합니다. 전화번호 형식에 맞는 값만을 DB 에 저장하기 위해서 정규표현식을 사용.
