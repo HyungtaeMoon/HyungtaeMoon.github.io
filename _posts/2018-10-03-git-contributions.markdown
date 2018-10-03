@@ -3,8 +3,8 @@ layout: post
 title:  "Fork 한 저장소에 contributions가 되지 않는 현상"
 date:   2018-10-03 08:42:31
 author: Moon Hyungtae
-categories: GitHub
-tags:	GitHub
+categories: gitHub
+tags:	gitHub
 cover:  "/assets/instacode.png"
 ---
 
