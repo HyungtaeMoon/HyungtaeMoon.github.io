@@ -9,7 +9,7 @@ cover:  "/assets/instacode.png"
 ---
 
 통합개발환경이라는 것에 대해서 간단하게 정리.
-
+.
 IDLE 또는 Python 쉘을 사용하여 파이썬을 작성하는 것은 간단한 일이지만 시간이 많이 걸리는 프로그래밍 프로젝트에는 되려 역효과가 발생합니다.
 
 IDEs 와 Code Editors 는 무엇인가?
