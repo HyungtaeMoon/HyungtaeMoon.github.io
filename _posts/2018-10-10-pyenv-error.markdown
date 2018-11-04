@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "module is not callable 오류"
-date:   2018-10-09 14:41:19
+date:   2018-10-10 14:41:19
 author: Moon Hyungtae
 categories: django
 tags:	django
